@@ -1,0 +1,6 @@
+return {
+    AdsEnabled = false,
+    AdBanners = {
+      
+    },
+}
